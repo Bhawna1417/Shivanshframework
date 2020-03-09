@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite]">
+  <test thread-count="5" name="Command line test(failed)">
+    <classes>
+      <class name="com.webdriver.TestCases.TCAkeoTech">
+        <methods>
+          <include name="setUp"/>
+          <include name="testTech"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.webdriver.TestCases.TCAkeoTech -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [suite] -->

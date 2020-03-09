@@ -1,0 +1,12 @@
+[INFO] 2019-02-13 16:18:47,082 com.webdriver.Reporting.AkeoSanityListener <init> - Costco Custom Listener
+[INFO] 2019-02-13 16:18:47,457 com.webdriver.Reporting.AkeoSanityListener onStart - Test has been started --> org.testng.TestRunner@97e1986
+[INFO] 2019-02-13 16:18:47,640 com.webdriver.Reporting.AkeoSanityListener onTestSkipped - Test Case has been skipped --> [TestResult name=testTech status=SKIP method=TCAkeoTech.testTech()[pri:0, instance:com.webdriver.TestCases.TCAkeoTech@6be46e8f] output={null}]
+[INFO] 2019-02-13 16:18:47,685 com.webdriver.Reporting.AkeoSanityListener onFinish - Test has been finished --> org.testng.TestRunner@97e1986
+[INFO] 2019-02-13 16:19:14,571 com.webdriver.Reporting.AkeoSanityListener <init> - Costco Custom Listener
+[INFO] 2019-02-13 16:19:14,916 com.webdriver.Reporting.AkeoSanityListener onStart - Test has been started --> org.testng.TestRunner@97e1986
+[INFO] 2019-02-13 16:19:15,023 com.webdriver.Reporting.AkeoSanityListener onTestSkipped - Test Case has been skipped --> [TestResult name=testTech status=SKIP method=TCAkeoTech.testTech()[pri:0, instance:com.webdriver.TestCases.TCAkeoTech@6be46e8f] output={null}]
+[INFO] 2019-02-13 16:19:15,070 com.webdriver.Reporting.AkeoSanityListener onFinish - Test has been finished --> org.testng.TestRunner@97e1986
+[INFO] 2019-02-13 16:19:46,974 com.webdriver.Reporting.AkeoSanityListener <init> - Costco Custom Listener
+[INFO] 2019-02-13 16:20:57,555 com.webdriver.Reporting.AkeoSanityListener onStart - Test has been started --> org.testng.TestRunner@1df82230
+[INFO] 2019-02-13 16:21:03,541 com.webdriver.Reporting.AkeoSanityListener onTestSkipped - Test Case has been skipped --> [TestResult name=testTech status=SKIP method=TCAkeoTech.testTech()[pri:0, instance:com.webdriver.TestCases.TCAkeoTech@37e547da] output={null}]
+[INFO] 2019-02-13 16:21:04,392 com.webdriver.Reporting.AkeoSanityListener onFinish - Test has been finished --> org.testng.TestRunner@1df82230
